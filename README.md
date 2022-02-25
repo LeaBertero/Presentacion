@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Mi nombre es Leandro Bertero.. en este espacio hay un poco sobre mi historia , en cuanto a los trabajos realizados y lugar dónde los reali y en las distintas cosas que estoy aprendiendo, para formarme  como programador y tester. 
+Mi nombre es Leandro Bertero.. en este espacio hay un poco sobre mi historia , en cuanto a los trabajos realizados y lugar dónde los realicé y en las distintas cosas que estoy aprendiendo, para formarme  como programador y tester. 
 
 <!--
 **LeaBertero/LeaBertero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
