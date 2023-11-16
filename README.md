@@ -1,5 +1,5 @@
 ### Hi there 👋 
-Mi nombre es Leandro Bertero.. en este espacio hay un poco sobre mi historia , en cuanto a los trabajos realizados y lugar dónde los realicé y las distintas cosas que estoy aprendiendo, estudiando actualmente en el ITC (Instituto Tecnico Cordoba)  Desarrollo de software, actualmente cursando el segundo año de la carrera, tambien cursnaod Testing QA Manueal y desarrollo web en el politecnico Cordoba.
+Mi nombre es Leandro Bertero.. en este espacio hay un poco sobre mi historia , en cuanto a los trabajos realizados y lugar dónde los realicé y las distintas cosas que estoy aprendiendo, estudiando actualmente en el ITC (Instituto Tecnico Cordoba)  Desarrollo de software, actualmente cursando el segundo año de la carrera, ambién cuanto con un curso de Testing QA Manueal cursado en la UTN (Universidad Tecnológica de Córdoba). posteriormente he realizado un un curso de desarrollo web en el CderHouse.
 
 <!--
 **LeaBertero/LeaBertero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
